@@ -437,6 +437,7 @@ text-transform: uppercase;
 width: 25%;
 border-radius: 5px ;
 border: none;
+margin-buttom:20px
 }
 
 
@@ -461,7 +462,6 @@ border: none;
   background-color: #333;
   text-align: center;
   padding: 60px;
-padding-top :30px;
 }
 
 .footer p{
